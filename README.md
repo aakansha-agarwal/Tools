@@ -8,3 +8,11 @@ Install brew- Brew, also known as Homebrew, is a popular package manager for mac
 
 **For Ubuntu Use:**
 'apt-get' is a command-line tool used on Debian-based Linux distributions, such as Ubuntu, for package management. It allows users to install, update, and remove software packages from the official repositories or third-party sources.
+
+**SignUps Accounts Links**
+
+**GITHUB:** https://github.com 
+**GODADDY:** https://www.godaddy.com
+**DOCKER:** https://hub.docker.com
+**SONAR CLOUD:** https://www.sonarsource.com/products/sonarcloud/
+**AWS:** https://aws.amazon.com/free

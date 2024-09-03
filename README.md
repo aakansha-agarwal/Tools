@@ -12,7 +12,11 @@ Install brew- Brew, also known as Homebrew, is a popular package manager for mac
 **SignUps Accounts Links**
 
 **GITHUB:** https://github.com 
+
 **GODADDY:** https://www.godaddy.com
+
 **DOCKER:** https://hub.docker.com
+
 **SONAR CLOUD:** https://www.sonarsource.com/products/sonarcloud/
+
 **AWS:** https://aws.amazon.com/free
